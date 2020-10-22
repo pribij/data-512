@@ -32,7 +32,7 @@ aggressionToxicity_visualizations.csv
 | english_first_language  | num       | indicator (1,0)                        | integer   |
 | rev_id                  | num       | unique comment id                      | integer   |
 | aggression              | num       | indicator (1, 0)                       | integer   |
-| aggression_score        | num       | mean scrore value                      | float     |
+| aggression_score        | num       | mean score value                      | float     |
 | toxicity                | num       | indicator (1, 0)                       | integer   |
 | toxicity_score          | num       | mean score value                       | float     |
 
