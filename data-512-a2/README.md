@@ -25,7 +25,7 @@ aggression_visualizations.csv (too large for repo, generate using py notebook)
 | aggression              | num       | indicator (1, 0)                       | integer   |
 | aggression_score        | num       | value from (-3,3)                      | float     |
 
-aggressionToxicity_visualizations.csv (too large for repo, generate using py notebook)
+aggressionToxicity_visualizations.csv 
 | column                  | value     | description                            | data type |
 |-------------------------|-----------|----------------------------------------|-----------|
 | worker_id               | num       | unique id                              | integer   |
